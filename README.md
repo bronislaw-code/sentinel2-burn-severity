@@ -1,0 +1,1 @@
+# sentinel2-burn-severity
