@@ -5,10 +5,20 @@ using the **differenced Normalized Burn Ratio (dNBR)** index.
 
 ## Case Study
 
-- **Location:** Southern Europe (wildfire, summer 2021)
+- **Event:** Massif des Maures wildfire, August 2021
+- **Location:** Southern France, Var department (Provence-Alpes-Côte d'Azur),
+  west of the commune of Grimaud
 - **Pre-fire image:** 2021-07-28
 - **Post-fire image:** 2021-08-27
 - **Sensor:** Sentinel-2 MSI, Level-2A (bottom-of-atmosphere reflectance)
+- **Study area:** Southern portion of the burn scar (~12 km²)
+
+> **Context:** The Massif des Maures fire ignited on August 16, 2021, driven
+> by strong Mistral winds and extreme drought. It burned approximately 7,000 ha
+> of Mediterranean forest before being contained on August 24. This analysis
+> covers the southern section of the fire perimeter, west of Grimaud.
+>
+> 📍 [View on OpenStreetMap](https://www.openstreetmap.org/?mlat=43.27&mlon=6.47#map=12/43.27/6.47)
 
 ## Workflow
 
