@@ -22,7 +22,7 @@ using the **differenced Normalized Burn Ratio (dNBR)** index.
 
 ## Workflow
 
-1. Load pre- and post-fire bands (B04, B08, B12)
+1. Load pre- and post-fire bands (B04, B08, B11, B12)
 2. Compute NBR, dNBR, and NDVI
 3. Classify burn severity using USGS thresholds
 4. Export GeoTIFF, GeoJSON, and PNG products
